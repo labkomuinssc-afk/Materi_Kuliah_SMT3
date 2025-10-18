@@ -1,0 +1,1 @@
+SELECT AVG(nilai) AS nilai_rata2 FROM mahasiswa; 

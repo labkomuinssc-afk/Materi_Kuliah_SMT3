@@ -1,0 +1,2 @@
+SELECT * FROM mahasiswa 
+ORDER BY NIM ASC; 
